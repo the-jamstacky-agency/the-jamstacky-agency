@@ -19,17 +19,13 @@
 ###
 
 <h1 align="center">
-  Technology Stack.
+  Technology Stack. <img src="https://github.com/Codage-Habitation/.github/blob/main/images/Technology%20Stack%20Icon.png" width="25">
 </h1>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/51d1c18d-d82a-49fa-89ff-f8e83f7ffee7">
+<img src="https://github.com/user-attachments/assets/64c7e033-3947-4261-85b9-593da8a64f51">
 </p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/58663bb4-9473-46e5-800b-4ecb2b006470">
-</p>
-<p align="center">
-<img src="https://github.com/user-attachments/assets/d6d4ee8c-4db9-4186-9904-9cf27645348a">
-</p>
+
+
 
 <h2 align="center">
   Jamstack Development Agency Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="25">
