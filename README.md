@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/a202be1e-0a20-47c8-8117-85f7e5159549">
+
 <h1 align="center">Hello, Folks! 👋</h1>
 
 ###
@@ -16,9 +18,9 @@
 
 ###
 
-<h2 align="center">
+<h1 align="center">
   Technology Stack.
-</h2>
+</h1>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/51d1c18d-d82a-49fa-89ff-f8e83f7ffee7">
 </p>
